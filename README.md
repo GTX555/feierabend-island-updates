@@ -8,7 +8,9 @@ Unter **Releases** den aktuellen **Feierabend-Island-Setup-…-x64.exe** herunte
 
 ## Updates
 
-Ab Version 0.12.1 sucht die App beim Start nach einer neueren veröffentlichten Version. Dann erscheint links neben Verschieben und Profilbild ein weißer Download-Button. Ein Klick lädt den Installer, prüft Größe und SHA-256 und zeigt die Datei im Download-Ordner. Die Installation startet man selbst. Ein Klick auf die Versionsnummer unten prüft erneut.
+Die App sucht beim Start nach einer neueren veröffentlichten Version. Dann erscheint links neben Verschieben und Profilbild ein weißer Update-Button. Ab Version 0.13.0 lädt ein Klick das Update in den internen App-Cache, prüft Größe und SHA-256, speichert offene Eingaben und aktualisiert die bestehende Installation. Anschließend startet die aktualisierte App automatisch. Ein Klick auf die Versionsnummer unten prüft erneut. Im Download-Ordner muss keine Datei gesucht werden.
+
+Wer noch Version 0.12.x verwendet, installiert einmalig Version 0.13.0 oder neuer über den bisherigen Download. Danach steht der direkte Update-Ablauf zur Verfügung.
 
 Dieses Repository enthält die öffentlichen Download-Dateien. Persönliche Arbeitszeiten, Journalnotizen, Anmeldesitzungen und Zugangsdaten werden hier nicht veröffentlicht.
 
