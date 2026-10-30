@@ -8,7 +8,7 @@ Unter **Releases** den aktuellen **Feierabend-Island-Setup-…-x64.exe** herunte
 
 ## Updates
 
-Ab Version 0.12 sucht die App beim Start nach einer neueren veröffentlichten Version. Dann erscheint links neben Verschieben und Profilbild ein weißer Download-Button. Ein Klick lädt den Installer, prüft Größe und SHA-256 und zeigt die Datei im Download-Ordner. Die Installation startet man selbst. Ein Klick auf die Versionsnummer unten prüft erneut.
+Ab Version 0.12.1 sucht die App beim Start nach einer neueren veröffentlichten Version. Dann erscheint links neben Verschieben und Profilbild ein weißer Download-Button. Ein Klick lädt den Installer, prüft Größe und SHA-256 und zeigt die Datei im Download-Ordner. Die Installation startet man selbst. Ein Klick auf die Versionsnummer unten prüft erneut.
 
 Dieses Repository enthält die öffentlichen Download-Dateien. Persönliche Arbeitszeiten, Journalnotizen, Anmeldesitzungen und Zugangsdaten werden hier nicht veröffentlicht.
 
